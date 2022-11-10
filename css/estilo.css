@@ -1,0 +1,41 @@
+.texto-azul {
+    color: #242f51;
+}
+
+#titulo-inicio {
+    font-size: 80px;
+}
+
+#texto-cinza {
+    color: #616368;
+}
+#subtitulo-cinza {
+    font-size: 20px;
+}
+.botao-azul:hover {
+    padding: 12px 25px;
+    background-color: #fcae61;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+}    
+.botao-azul {
+        padding: 12px 25px;
+        background-color: #2500f9;
+        border: none;
+        border-radius: 30px;
+        color: #fff;
+ }
+ .botao-branco {
+    padding: 12px 24px;
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+    color: #2500f9;
+ }
+ #inicio {
+    background-image: url('../img/Vector_Smart_Object2.png'), url('../img/Layer_5.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: contain;
+ }
